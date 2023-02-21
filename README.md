@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Nadindra!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+Currently learning Web development and mobile apps, but I love learn new thing in programming such as C++, Python.  
 
 ### Tools:
 <p>
@@ -20,6 +20,6 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=NMATech&theme=tokyonight&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMATech&theme=tokyonight&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=NMATech&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMATech&layout=compact" height=180 />
 </p>

@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Nadindra!
+# Hi there 👋 , I'm Nadindra Maulana Aziz !
 Currently learning Web development and mobile apps, but I love learn new thing in programming such as C++, Python.  
 
 ### Tools:

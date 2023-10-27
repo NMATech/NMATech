@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Nadindra Maulana Aziz !
-Currently learning Web development and mobile apps, but I love learn new thing in programming such as C++, Python.  
+Currently learning FrontEnd Development and some of BackEnd (Cuz of my lecture in university so i have to do it), but I love learn new thing in programming such as Python cuz python is powerfull.  
 
 ### Tools:
 <p>

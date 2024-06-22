@@ -10,8 +10,8 @@ Currently learning FrontEnd Development and some of BackEnd (Cuz of my lecture i
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning Flutter, HTML, CSS and JS </br>
+    - 🔭 I’m currently working on swiftshop </br>
+    - 🌱 I’m currently learning Laravel, React JS</br>
     - 👯 I’m looking to collaborate on Web development. FrondEnd </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>

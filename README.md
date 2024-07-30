@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmatech&label=Profile%20views&color=0e75b6&style=flat" alt="nmatech" /> </p>
 
-- 🔭 I’m currently working on [swiftshop](https://github.com/NMATech/Swiftshop)
+- 🔭 I’m currently working on [StudyClub]([https://github.com/NMATech/Swiftshop](https://github.com/NMATech/studyclub_2024))
 
-- 🌱 I’m currently learning **Laravel, and Javascript in depth**
+- 🌱 I’m currently learning **Laravel, and Javascript in depth Such as Reactjs**
 
 - 💬 Ask me about **Frontend Development or Web Development**
 
